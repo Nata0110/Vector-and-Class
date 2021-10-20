@@ -1,1 +1,1 @@
-# Vector-and-Class
+Work with classes.
